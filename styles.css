@@ -139,6 +139,10 @@ h3 {
   margin-top: 2rem;
 }
 
+.section-actions {
+  max-width: 1120px;
+}
+
 .button {
   display: inline-flex;
   align-items: center;

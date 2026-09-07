@@ -13,6 +13,8 @@ Use this file to manage the clickable evidence links in the resume and LinkedIn 
 | Sanitized Context Forge handoff | [HANDOFF_PROOF_URL] | Needed | Can be a PDF, image, or portfolio section anchor. |
 | Battle Buddy case study | https://mkultrausa.github.io/ai-operations-portfolio/#battle-buddy | Live draft | Use sanitized proof only before adding deeper assets. |
 | Infrastructure lab case study | https://mkultrausa.github.io/ai-operations-portfolio/#infrastructure | Live draft | Use dashboard screenshots with private details redacted before adding deeper assets. |
+| Legal RAG live demo | https://mkultrausa.github.io/legal-rag-source-demo/ | Live | Working source-grounded research support demo. |
+| Legal RAG GitHub repository | https://github.com/MkultraUSA/legal-rag-source-demo | Live | Public repo for the demo. |
 | Proof library | https://mkultrausa.github.io/ai-operations-portfolio/#proof | Live draft | A gallery page or folder of proof artifacts can be added later. |
 
 ## Resume Link Priority
