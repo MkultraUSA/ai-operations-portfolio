@@ -35,7 +35,7 @@ ai-operations-portfolio
 Recommended public URL:
 
 ```text
-https://[github-username].github.io/ai-operations-portfolio/
+https://mkultrausa.github.io/ai-operations-portfolio/
 ```
 
 Use this Pages site as the main portfolio URL in:

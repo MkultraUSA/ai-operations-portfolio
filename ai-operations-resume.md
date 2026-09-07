@@ -1,6 +1,6 @@
 # Kevin Radics
 
-Austin, TX | LinkedIn: [LINKEDIN_URL] | Portfolio: [PORTFOLIO_URL] | GitHub: [GITHUB_URL]
+Austin, TX | LinkedIn: [LINKEDIN_URL] | Portfolio: https://mkultrausa.github.io/ai-operations-portfolio/ | GitHub: https://github.com/MkultraUSA
 
 ## AI Operations / Automation / Systems Integration
 
@@ -8,12 +8,12 @@ Practical systems builder focused on AI-assisted workflows, technical operations
 
 ## Selected Proof Links
 
-- Context Forge case study: [CONTEXT_FORGE_CASE_STUDY_URL]
+- Context Forge case study: https://mkultrausa.github.io/ai-operations-portfolio/#context-forge
 - Context Forge repository: [CONTEXT_FORGE_GITHUB_URL]
 - Sanitized Context Forge handoff: [HANDOFF_PROOF_URL]
-- Battle Buddy case study: [BATTLE_BUDDY_CASE_STUDY_URL]
-- Infrastructure lab case study: [INFRASTRUCTURE_CASE_STUDY_URL]
-- Proof library: [PROOF_LIBRARY_URL]
+- Battle Buddy case study: https://mkultrausa.github.io/ai-operations-portfolio/#battle-buddy
+- Infrastructure lab case study: https://mkultrausa.github.io/ai-operations-portfolio/#infrastructure
+- Proof library: https://mkultrausa.github.io/ai-operations-portfolio/#proof
 
 ## Core Skills
 
@@ -45,7 +45,7 @@ Built and operated a workflow for capturing, transcribing, enriching, storing, a
 - Used technical journals, sanitized examples, and pipeline notes to preserve operating context.
 - Demonstrated practical work across Linux/VPS environments, data pipelines, APIs, searchable records, and incident review.
 
-Proof: [BATTLE_BUDDY_CASE_STUDY_URL]
+Proof: https://mkultrausa.github.io/ai-operations-portfolio/#battle-buddy
 
 ### Infrastructure and Home Automation Lab
 
@@ -56,7 +56,7 @@ Built and maintained a practical technical operations lab spanning local devices
 - Documented recovery and verification steps so systems could be resumed after restarts or interruptions.
 - Verified fresh post-restart writes across multiple Home Assistant domains into the monitoring pipeline.
 
-Proof: [INFRASTRUCTURE_CASE_STUDY_URL]
+Proof: https://mkultrausa.github.io/ai-operations-portfolio/#infrastructure
 
 ## Experience
 

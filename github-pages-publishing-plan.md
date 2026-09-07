@@ -7,7 +7,7 @@ Publish the portfolio as a GitHub Pages site.
 That gives LinkedIn viewers a more trusted destination than a random link because the URL visibly belongs to GitHub:
 
 ```text
-https://[github-username].github.io/ai-operations-portfolio/
+https://mkultrausa.github.io/ai-operations-portfolio/
 ```
 
 ## Repository
@@ -91,11 +91,11 @@ I put the proof links in my Featured section.
 After publishing, update these placeholders:
 
 ```text
-[PORTFOLIO_URL] = https://[github-username].github.io/ai-operations-portfolio/
-[CONTEXT_FORGE_CASE_STUDY_URL] = https://[github-username].github.io/ai-operations-portfolio/#context-forge
-[PROOF_LIBRARY_URL] = https://[github-username].github.io/ai-operations-portfolio/#proof
-[BATTLE_BUDDY_CASE_STUDY_URL] = https://[github-username].github.io/ai-operations-portfolio/#battle-buddy
-[INFRASTRUCTURE_CASE_STUDY_URL] = https://[github-username].github.io/ai-operations-portfolio/#infrastructure
+[PORTFOLIO_URL] = https://mkultrausa.github.io/ai-operations-portfolio/
+[CONTEXT_FORGE_CASE_STUDY_URL] = https://mkultrausa.github.io/ai-operations-portfolio/#context-forge
+[PROOF_LIBRARY_URL] = https://mkultrausa.github.io/ai-operations-portfolio/#proof
+[BATTLE_BUDDY_CASE_STUDY_URL] = https://mkultrausa.github.io/ai-operations-portfolio/#battle-buddy
+[INFRASTRUCTURE_CASE_STUDY_URL] = https://mkultrausa.github.io/ai-operations-portfolio/#infrastructure
 ```
 
 ## Local Publish Commands

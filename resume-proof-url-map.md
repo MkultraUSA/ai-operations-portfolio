@@ -7,13 +7,13 @@ Use this file to manage the clickable evidence links in the resume and LinkedIn 
 | Proof Item | URL | Status | Notes |
 |---|---|---|---|
 | LinkedIn profile | [LINKEDIN_URL] | Needed | Use the public profile URL. |
-| Portfolio home | [PORTFOLIO_URL] | Needed | Can be GitHub Pages, personal domain, or hosted static site. |
-| Context Forge case study | [CONTEXT_FORGE_CASE_STUDY_URL] | Needed | Flagship link for resume and LinkedIn Featured. |
+| Portfolio home | https://mkultrausa.github.io/ai-operations-portfolio/ | Live | GitHub Pages public portfolio. |
+| Context Forge case study | https://mkultrausa.github.io/ai-operations-portfolio/#context-forge | Live | Flagship link for resume and LinkedIn Featured. |
 | Context Forge GitHub repository | [CONTEXT_FORGE_GITHUB_URL] | Pending public cleanup | Publish only after secret/path review. |
 | Sanitized Context Forge handoff | [HANDOFF_PROOF_URL] | Needed | Can be a PDF, image, or portfolio section anchor. |
-| Battle Buddy case study | [BATTLE_BUDDY_CASE_STUDY_URL] | Needed | Use sanitized proof only. |
-| Infrastructure lab case study | [INFRASTRUCTURE_CASE_STUDY_URL] | Needed | Use dashboard screenshots with private details redacted. |
-| Proof library | [PROOF_LIBRARY_URL] | Optional but useful | A gallery page or folder of proof artifacts. |
+| Battle Buddy case study | https://mkultrausa.github.io/ai-operations-portfolio/#battle-buddy | Live draft | Use sanitized proof only before adding deeper assets. |
+| Infrastructure lab case study | https://mkultrausa.github.io/ai-operations-portfolio/#infrastructure | Live draft | Use dashboard screenshots with private details redacted before adding deeper assets. |
+| Proof library | https://mkultrausa.github.io/ai-operations-portfolio/#proof | Live draft | A gallery page or folder of proof artifacts can be added later. |
 
 ## Resume Link Priority
 
@@ -47,10 +47,10 @@ The GitHub repository must be immaculate before it is placed this high. If clean
 - Do not link directly to private files that require a login unless the employer has explicit access.
 - Avoid URLs that reveal private hostnames, usernames, tokens, home network details, or internal paths.
 - Use portfolio anchor links for specific sections when possible:
-  - `[PORTFOLIO_URL]#context-forge`
-  - `[PORTFOLIO_URL]#battle-buddy`
-  - `[PORTFOLIO_URL]#infrastructure`
-  - `[PORTFOLIO_URL]#proof`
+  - `https://mkultrausa.github.io/ai-operations-portfolio/#context-forge`
+  - `https://mkultrausa.github.io/ai-operations-portfolio/#battle-buddy`
+  - `https://mkultrausa.github.io/ai-operations-portfolio/#infrastructure`
+  - `https://mkultrausa.github.io/ai-operations-portfolio/#proof`
 
 ## Suggested Public Link Structure
 
