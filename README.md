@@ -23,7 +23,7 @@ Context Forge is the flagship project. It demonstrates a practical AI operations
 
 - Battle Buddy: AI-assisted public-safety/radio operations pipeline
 - Infrastructure and Home Automation Lab: monitoring, dashboards, remote access, and recovery notes
-- Legal RAG: next proof project for source-grounded retrieval, citations, audit views, and abstention behavior
+- Legal RAG: next proof project for law office/paralegal research support with source-grounded retrieval, citations, audit views, and abstention behavior
 
 ## GitHub Pages Publishing
 

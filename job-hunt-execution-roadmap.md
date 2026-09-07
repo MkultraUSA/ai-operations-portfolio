@@ -134,14 +134,14 @@ Use this order everywhere:
 4. GitHub repository
 5. Battle Buddy
 6. Infrastructure lab
-7. Legal RAG source-grounded retrieval demo
+7. Legal RAG law office research-support demo
 8. Resume
 
 ## Phase 7: Legal RAG Proof Project
 
 ### Purpose
 
-Show that Kevin can build a careful RAG workflow against serious source material, with citations, source boundaries, evaluation, and abstention.
+Show that Kevin can build a careful RAG workflow for law office, paralegal, legal operations, or compliance-adjacent research support, with citations, source boundaries, evaluation, and abstention.
 
 ### Actions
 

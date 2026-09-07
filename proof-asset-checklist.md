@@ -116,6 +116,8 @@ The first public version can launch with:
 
 ## Legal RAG Required Assets
 
+Positioning: show the ability to build RAG for a law office or paralegal research-support workflow without presenting the system as legal advice.
+
 ### Screenshots
 
 - Search or question UI
