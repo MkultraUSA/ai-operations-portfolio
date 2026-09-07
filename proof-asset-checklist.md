@@ -113,3 +113,21 @@ The first public version can launch with:
 - 1 Battle Buddy diagram
 - 1 infrastructure dashboard screenshot
 - 1 LinkedIn launch post
+
+## Legal RAG Required Assets
+
+### Screenshots
+
+- Search or question UI
+- Cited answer with source cards
+- Retrieved passages / audit view
+- Source corpus list
+- Evaluation table
+- Correct abstention example
+
+### Outcome Evidence
+
+- 20-question evaluation set
+- Retrieval hit rate for known-answer questions
+- Abstention behavior for unsupported questions
+- No fabricated citation examples in the tested set

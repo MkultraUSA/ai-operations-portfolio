@@ -134,7 +134,41 @@ Use this order everywhere:
 4. GitHub repository
 5. Battle Buddy
 6. Infrastructure lab
-7. Resume
+7. Legal RAG source-grounded retrieval demo
+8. Resume
+
+## Phase 7: Legal RAG Proof Project
+
+### Purpose
+
+Show that Kevin can build a careful RAG workflow against serious source material, with citations, source boundaries, evaluation, and abstention.
+
+### Actions
+
+1. Pick a narrow public legal corpus.
+2. Build a small ingestion and chunking pipeline.
+3. Add source metadata and stable chunk IDs.
+4. Build hybrid retrieval.
+5. Generate answers only from retrieved passages.
+6. Show source cards and retrieved passages.
+7. Add abstention for unsupported questions.
+8. Create a 20-question evaluation set.
+9. Publish a clean GitHub repo.
+10. Add the finished case study to the portfolio and LinkedIn Featured.
+
+### Recommended First Corpus
+
+Fair Credit Reporting Act regulations and selected public opinions.
+
+### Output
+
+- `legal-rag-source-demo` repository
+- public demo or screenshots
+- architecture diagram
+- cited-answer screenshot
+- audit-view screenshot
+- evaluation table
+- LinkedIn carousel
 
 ## Interview Stories To Prepare
 

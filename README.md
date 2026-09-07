@@ -23,6 +23,7 @@ Context Forge is the flagship project. It demonstrates a practical AI operations
 
 - Battle Buddy: AI-assisted public-safety/radio operations pipeline
 - Infrastructure and Home Automation Lab: monitoring, dashboards, remote access, and recovery notes
+- Legal RAG: next proof project for source-grounded retrieval, citations, audit views, and abstention behavior
 
 ## GitHub Pages Publishing
 
@@ -54,6 +55,7 @@ Use this Pages site as the main portfolio URL in:
 - `context-forge-linkedin-proof-deck.md` - carousel/deck script
 - `ai-operations-resume.md` - proof-linked resume draft
 - `github-immaculate-release-plan.md` - Context Forge repo cleanup standard
+- `legal-rag-next-project.md` - next portfolio proof project plan
 - `resume-proof-url-map.md` - URL tracking
 
 ## Publish Standard
