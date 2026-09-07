@@ -1,0 +1,214 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>AI Operations and Automation Portfolio</title>
+    <meta name="description" content="A proof-first portfolio centered on Context Forge, Battle Buddy, and infrastructure operations work.">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="#top">AI Ops Portfolio</a>
+      <nav aria-label="Portfolio sections">
+        <a href="#context-forge">Context Forge</a>
+        <a href="#proof">Proof</a>
+        <a href="#battle-buddy">Battle Buddy</a>
+        <a href="#infrastructure">Infrastructure</a>
+        <a href="#linkedin">LinkedIn</a>
+        <a href="#resume">Resume</a>
+      </nav>
+    </header>
+
+    <main id="top">
+      <section class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow">AI operations / automation / systems integration</p>
+          <h1>Practical systems for keeping AI-assisted work moving.</h1>
+          <p class="lead">I build workflows that preserve context across chats, models, repositories, remote machines, and interruptions. The portfolio is proof-first: screenshots, journals, architecture diagrams, GitHub evidence, and before/after examples.</p>
+          <div class="actions">
+            <a class="button primary" href="#context-forge">Read flagship case study</a>
+            <a class="button" href="#resume">Resume proof links</a>
+            <a class="button" href="README.md">GitHub Pages notes</a>
+          </div>
+        </div>
+        <div class="proof-panel" aria-label="Portfolio proof summary">
+          <div>
+            <span class="metric">01</span>
+            <strong>Context Forge</strong>
+            <p>Persistent project memory and handoffs for AI-assisted work.</p>
+          </div>
+          <div>
+            <span class="metric">02</span>
+            <strong>Battle Buddy</strong>
+            <p>Radio/transcript pipeline for public-safety review workflows.</p>
+          </div>
+          <div>
+            <span class="metric">03</span>
+            <strong>Infrastructure Lab</strong>
+            <p>Monitoring, remote access, dashboards, and recovery notes.</p>
+          </div>
+        </div>
+      </section>
+
+      <section id="context-forge" class="band">
+        <div class="section-heading">
+          <p class="eyebrow">Flagship case study</p>
+          <h2>Context Forge: persistent memory for AI-assisted project work</h2>
+          <p>Context Forge is an AI operations layer: scoped project memory, human-readable handoffs, and evidence-backed next actions that another agent or person can inspect.</p>
+        </div>
+
+        <div class="case-grid">
+          <article>
+            <h3>The problem</h3>
+            <p>AI work gets fragmented across chats, token limits, repositories, SSH sessions, synced folders, and human interruptions. The next session often has to guess what changed.</p>
+          </article>
+          <article>
+            <h3>The system</h3>
+            <p>Codex retrieves scoped project context from a dedicated vault. After work, it writes a structured handoff with outcome, decisions, changed artifacts, verification, and next actions.</p>
+          </article>
+          <article>
+            <h3>The outcome</h3>
+            <p>Work resumes from evidence instead of memory. Context crosses from local tasks into remote validation paths without storing credentials or granting production authority.</p>
+          </article>
+        </div>
+
+        <div class="diagram" role="img" aria-label="Context Forge architecture diagram">
+          <div>User goal</div>
+          <span></span>
+          <div>Codex task</div>
+          <span></span>
+          <div>Context Forge MCP</div>
+          <span></span>
+          <div>Project vault</div>
+          <span></span>
+          <div>Nextcloud sync</div>
+          <span></span>
+          <div>Hermes snapshot</div>
+        </div>
+
+        <div class="evidence">
+          <h3>Current implementation evidence</h3>
+          <ul>
+            <li>Context Forge MVP is implemented.</li>
+            <li>Codex reads the dedicated Nextcloud filesystem vault.</li>
+            <li>Hermes can read an additive v1 snapshot through an existing mounted path.</li>
+            <li>Handoffs record decisions, changed artifacts, verification, and next actions.</li>
+            <li>Credential and authorization boundaries are explicit.</li>
+          </ul>
+        </div>
+      </section>
+
+      <section id="proof" class="section">
+        <div class="section-heading">
+          <p class="eyebrow">Proof library</p>
+          <h2>Publish artifacts before claims.</h2>
+          <p>Every major statement should be backed by a screenshot, sanitized excerpt, diagram, repository link, or before/after workflow.</p>
+        </div>
+        <div class="proof-list">
+          <div><strong>Context retrieval</strong><span>Fresh task pulls scoped project memory before work starts.</span></div>
+          <div><strong>Sanitized handoff</strong><span>Outcome, decisions, verification, and next actions are visible.</span></div>
+          <div><strong>Architecture diagram</strong><span>Codex, MCP, vault, Nextcloud, and Hermes relationship.</span></div>
+          <div><strong>Before / after</strong><span>Compare restart-from-zero with evidence-backed resume.</span></div>
+          <div><strong>GitHub evidence</strong><span>Repository, commits, issues, release notes, and cleanup history.</span></div>
+          <div><strong>Operations notes</strong><span>Show troubleshooting and verification, not just finished screens.</span></div>
+        </div>
+      </section>
+
+      <section id="battle-buddy" class="band muted">
+        <div class="section-heading">
+          <p class="eyebrow">Supporting case study</p>
+          <h2>Battle Buddy: AI-assisted public-safety and radio operations</h2>
+          <p>An operational pipeline for capturing, transcribing, organizing, and reviewing public-safety radio and incident information.</p>
+        </div>
+        <div class="case-grid">
+          <article>
+            <h3>System shape</h3>
+            <p>Radio/audio source to decoder, transcription, enrichment, searchable database, review workflow, and notifications.</p>
+          </article>
+          <article>
+            <h3>Proof to add</h3>
+            <p>Sanitized transcript search, incident timeline, database example, pipeline diagram, and troubleshooting notes.</p>
+          </article>
+          <article>
+            <h3>Employer signal</h3>
+            <p>Linux/VPS ownership, pipeline design, API integration, messy data handling, and operational review workflows.</p>
+          </article>
+        </div>
+      </section>
+
+      <section id="infrastructure" class="section">
+        <div class="section-heading">
+          <p class="eyebrow">Supporting case study</p>
+          <h2>Infrastructure and home automation lab</h2>
+          <p>A practical operations environment for monitoring, remote access, dashboards, synced notes, and repeatable recovery.</p>
+        </div>
+        <div class="case-grid">
+          <article>
+            <h3>System shape</h3>
+            <p>Home Assistant writes to InfluxDB, Grafana visualizes trends, Tailscale and SSH support remote operations, and Nextcloud preserves notes.</p>
+          </article>
+          <article>
+            <h3>Proof to add</h3>
+            <p>Grafana dashboard, Home Assistant screen, topology diagram, recovery note, and evidence of fresh post-restart writes.</p>
+          </article>
+          <article>
+            <h3>Employer signal</h3>
+            <p>Monitoring, observability, troubleshooting, documentation, system ownership, and practical automation.</p>
+          </article>
+        </div>
+      </section>
+
+      <section id="linkedin" class="band">
+        <div class="section-heading">
+          <p class="eyebrow">Public launch</p>
+          <h2>LinkedIn content should explain the proof.</h2>
+          <p>Use screenshots and diagrams to show the operating pattern: retrieve context, do work, verify changes, write a handoff, resume later.</p>
+        </div>
+        <ol class="timeline">
+          <li><strong>Launch the portfolio.</strong> Introduce the practical AI operations positioning.</li>
+          <li><strong>Explain the problem.</strong> Show why AI-assisted work loses continuity.</li>
+          <li><strong>Show the handoff.</strong> Post a sanitized journal excerpt.</li>
+          <li><strong>Show architecture.</strong> Explain the vault, Codex, Nextcloud, and Hermes path.</li>
+          <li><strong>Add Battle Buddy.</strong> Connect the pattern to a live data pipeline.</li>
+          <li><strong>Add infrastructure lab.</strong> Show monitoring, dashboards, and recovery habits.</li>
+        </ol>
+      </section>
+
+      <section id="resume" class="section">
+        <div class="section-heading">
+          <p class="eyebrow">Resume support</p>
+          <h2>The resume should send hiring managers to proof.</h2>
+          <p>Use the resume as the compact version of the LinkedIn story: Context Forge first, supporting projects second, and clickable evidence for every major claim.</p>
+        </div>
+        <div class="proof-list">
+          <div><strong>Top links</strong><span>LinkedIn, portfolio, Context Forge case study, GitHub, and proof library.</span></div>
+          <div><strong>Role target</strong><span>AI operations, automation, systems integration, technical operations, and internal tools.</span></div>
+          <div><strong>Proof format</strong><span>Short bullets paired with URLs to screenshots, diagrams, handoffs, and repository history.</span></div>
+        </div>
+      </section>
+
+      <section class="band">
+        <div class="section-heading">
+          <p class="eyebrow">GitHub Pages</p>
+          <h2>A trusted link target for LinkedIn.</h2>
+          <p>Publish this static portfolio as a GitHub Pages site, then use the `github.io` URL in LinkedIn Featured, Contact Info, project entries, and the resume. Feed posts should still lead with native screenshots and PDF proof decks.</p>
+        </div>
+        <div class="case-grid">
+          <article>
+            <h3>Recommended URL</h3>
+            <p>Use `https://[github-username].github.io/ai-operations-portfolio/` as the main public proof link.</p>
+          </article>
+          <article>
+            <h3>Link behavior</h3>
+            <p>Do not rely on outbound links inside feed posts. Put the link in Featured and make the post itself understandable without clicking.</p>
+          </article>
+          <article>
+            <h3>Repo standard</h3>
+            <p>Keep this portfolio repo clean, but reserve the deepest technical polish for the separate Context Forge GitHub repository.</p>
+          </article>
+        </div>
+      </section>
+    </main>
+  </body>
+</html>
